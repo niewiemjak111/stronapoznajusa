@@ -1,0 +1,2 @@
+# stronapoznajusa
+strona na informatykę
